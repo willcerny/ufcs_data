@@ -36,7 +36,7 @@
     "Mv_err": {"upper": 0.5, "lower": 0.8},
     "bibcode": ""
   },
-  "stellar_population": {
+  "isoparams": {
     "iso_age": 13.5,
     "iso_feh": -1.9,
     "bibcode": "",
