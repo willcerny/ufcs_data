@@ -1,0 +1,41 @@
+{
+  "name": "DELVE 6",
+  "colorchoice": "slategray",
+  "photometry_source": "LSDR10",
+  "coordinates": {
+    "ra": 33.07,
+    "ra_err": {"lower": 0.004, "upper": 0.003},
+    "dec": -66.056,
+    "dec_err": {"lower": 0.002, "upper": 0.002},
+    "position_angle": 14,
+    "bibcode": ""
+  },
+  "distance": {
+    "distance_modulus": 19.51,
+    "distance_modulus_err": {"lower": 0.11, "upper": 0.16},
+    "dhelio": 81.0,
+    "dhelio_err": {"lower": 4.5, "upper": 5.7},
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": true,
+    "bibcode": ""
+  },
+  "size": {
+    "rhalf_physical": 10,
+    "rhalf_physical_err": {"lower": 3, "upper": 4},
+    "ellipticity": 0.0,
+    "ellipticity_err": {"lower": 0.0, "upper": 0.0},
+    "ahalf_angular_arcmin": 0.43,
+    "recompute_rhalf_physical": false,
+    "bibcode": ""
+  },
+  "luminosity": {
+    "Mv": -1.5,
+    "Mv_err": {"lower": 0.6, "upper": 0.4},
+    "bibcode": ""
+  },
+  "isoparams": {
+    "iso_age": 13.5,
+    "iso_feh": -2.2,
+    "bibcode": ""
+  }
+}
