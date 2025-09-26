@@ -16,7 +16,7 @@
     "dhelio": 81.0,
     "dhelio_err": {"lower": 4.5, "upper": 5.7},
     "prefer_distance_modulus": true,
-    "recompute_dhelio": true,
+    "recompute_dhelio": false,
     "bibcode": "2023ApJ...953L..21C"
   },
   "size": {
