@@ -8,7 +8,7 @@
     "dec": -66.056,
     "dec_err": {"lower": 0.002, "upper": 0.002},
     "position_angle": 14,
-    "bibcode": ""
+    "bibcode": "2023ApJ...953L..21C"
   },
   "distance": {
     "distance_modulus": 19.51,
@@ -17,7 +17,7 @@
     "dhelio_err": {"lower": 4.5, "upper": 5.7},
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
-    "bibcode": ""
+    "bibcode": "2023ApJ...953L..21C"
   },
   "size": {
     "rhalf_physical": 10,
@@ -26,7 +26,7 @@
     "ellipticity_err": {"lower": 0.0, "upper": 0.0},
     "ahalf_angular_arcmin": 0.43,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2023ApJ...953L..21C"
   },
   "luminosity": {
     "Mv": -1.5,
@@ -36,6 +36,6 @@
   "isoparams": {
     "iso_age": 13.5,
     "iso_feh": -2.2,
-    "bibcode": ""
+    "bibcode": "2023ApJ...953L..21C"
   }
 }
