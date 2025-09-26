@@ -31,7 +31,7 @@
   "luminosity": {
     "Mv": -1.5,
     "Mv_err": {"lower": 0.6, "upper": 0.4},
-    "bibcode": ""
+    "bibcode": "2023ApJ...953L..21C"
   },
   "isoparams": {
     "iso_age": 13.5,
