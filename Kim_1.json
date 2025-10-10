@@ -1,0 +1,49 @@
+{
+  "name": "Kim 1",
+  "colorchoice": "red",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 332.9214,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": 7.0271,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": -59,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 16.48,
+    "distance_modulus_err": { "upper": 0.1, "lower": 0.1 },
+    "dhelio": 19.8,
+    "dhelio_err": { "upper": 0.9, "lower": 0.9 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": null,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 5.2,
+    "rhalf_physical_err": { "upper": 0.7, "lower": 0.6 },
+    "ellipticity": 0.42,
+    "ellipticity_err": { "upper": 0.1, "lower": 0.1 },
+    "ahalf_angular_arcmin": 0.49,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": 0.3,
+    "Mv_err": { "upper": 0.5, "lower": 0.5 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 13,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
