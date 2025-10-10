@@ -1,0 +1,49 @@
+{
+  "name": "Balbinot 1",
+  "colorchoice": "orange",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 332.6797917,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": 14.94,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": 0,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 17.52,
+    "distance_modulus_err": { "upper": 0.07, "lower": 0.11 },
+    "dhelio": 31.6,
+    "dhelio_err": { "upper": 1.6, "lower": 1.0 },
+    "prefer_distance_modulus": false,
+    "recompute_dhelio": false,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 7.24,
+    "rhalf_physical_err": { "upper": 1.94, "lower": 1.29 },
+    "ellipticity": 0.0,
+    "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
+    "ahalf_angular_arcmin": 0.6,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": -1.21,
+    "Mv_err": { "upper": 0.66, "lower": 0.66 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 11.7,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
