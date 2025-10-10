@@ -1,0 +1,49 @@
+{
+  "name": "DELVE 5",
+  "colorchoice": "sienna",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 222.104,
+    "ra_err": { "upper": 0.002, "lower": 0.002 },
+    "dec": 17.468,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": 77,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 17.97,
+    "distance_modulus_err": { "upper": 0.17, "lower": 0.17 },
+    "dhelio": 39,
+    "dhelio_err": { "upper": 3, "lower": 3 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": false,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 5,
+    "rhalf_physical_err": { "upper": 1, "lower": 1 },
+    "ellipticity": 0.6,
+    "ellipticity_err": { "upper": 0.1, "lower": 0.2 },
+    "ahalf_angular_arcmin": 0.68,
+    "recompute_rhalf_physical": false,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": 0.4,
+    "Mv_err": { "upper": 0.4, "lower": 0.9 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 10,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
