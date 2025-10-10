@@ -1,0 +1,49 @@
+{
+  "name": "DELVE 1",
+  "colorchoice": "cornflowerblue",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 247.725,
+    "ra_err": { "upper": 0.002, "lower": 0.002 },
+    "dec": -0.972,
+    "dec_err": { "upper": 0.003, "lower": 0.003 },
+    "position_angle": 21,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 16.68,
+    "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
+    "dhelio": 21.7,
+    "dhelio_err": { "upper": 2.0, "lower": 1.9 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": true,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 5.4,
+    "rhalf_physical_err": { "upper": 1.5, "lower": 1.1 },
+    "ellipticity": 0.2,
+    "ellipticity_err": { "upper": 0.1, "lower": 0.2 },
+    "ahalf_angular_arcmin": 1.1,
+    "recompute_rhalf_physical": false,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": -0.2,
+    "Mv_err": { "upper": 0.8, "lower": 0.6 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 12.5,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
