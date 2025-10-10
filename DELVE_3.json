@@ -1,0 +1,49 @@
+{
+  "name": "DELVE 3",
+  "colorchoice": "olive",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 290.396,
+    "ra_err": { "upper": 0.003, "lower": 0.003 },
+    "dec": -60.784,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": 14,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 18.73,
+    "distance_modulus_err": { "upper": 0.09, "lower": 0.23 },
+    "dhelio": 56,
+    "dhelio_err": { "upper": 2, "lower": 6 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": false,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 7,
+    "rhalf_physical_err": { "upper": 1, "lower": 1 },
+    "ellipticity": 0.0,
+    "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
+    "ahalf_angular_arcmin": 0.4,
+    "recompute_rhalf_physical": false,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": -1.3,
+    "Mv_err": { "upper": 0.4, "lower": 0.6 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 13.5,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
