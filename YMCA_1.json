@@ -1,0 +1,49 @@
+{
+  "name": "YMCA 1",
+  "colorchoice": "goldenrod",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 110.8378,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": -64.8319,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": 0,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 18.72,
+    "distance_modulus_err": { "upper": 0.15, "lower": 0.17 },
+    "dhelio": 55.1,
+    "dhelio_err": { "upper": 4.0, "lower": 3.9 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": true,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 3.5,
+    "rhalf_physical_err": { "upper": 0.5, "lower": 0.5 },
+    "ellipticity": 0.0,
+    "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
+    "ahalf_angular_arcmin": 0.215,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": -0.47,
+    "Mv_err": { "upper": 0.57, "lower": 0.57 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 11.7,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
