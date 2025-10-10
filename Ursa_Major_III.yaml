@@ -1,0 +1,49 @@
+{
+  "name": "UMaIII/U1",
+  "colorchoice": "magenta",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 174.704,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": 31.0783,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": 169,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 15.0,
+    "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
+    "dhelio": 10,
+    "dhelio_err": { "upper": 1.0, "lower": 1.0 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": false,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 2.0,
+    "rhalf_physical_err": { "upper": 1.0, "lower": 0.8 },
+    "ellipticity": 0.5,
+    "ellipticity_err": { "upper": 0.2, "lower": 0.3 },
+    "ahalf_angular_arcmin": 0.9,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": 2.2,
+    "Mv_err": { "upper": 0.4, "lower": 0.3 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 12,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
