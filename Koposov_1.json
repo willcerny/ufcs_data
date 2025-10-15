@@ -1,0 +1,49 @@
+{
+  "name": "Koposov 1",
+  "colorchoice": "peru",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 179.827,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": 12.26,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": 7,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 17.8,
+    "distance_modulus_err": { "upper": 0.1, "lower": 0.1 },
+    "dhelio": 36.3,
+    "dhelio_err": { "upper": 1.7, "lower": 1.6 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": true,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 6.2,
+    "rhalf_physical_err": { "upper": 2.1, "lower": 2.0 },
+    "ellipticity": 0.45,
+    "ellipticity_err": { "upper": 0.15, "lower": 0.15 },
+    "ahalf_angular_arcmin": 0.62,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": -1.04,
+    "Mv_err": { "upper": 0.69, "lower": 0.69 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 7.0,
+    "iso_feh": -0.6,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
