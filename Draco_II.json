@@ -1,0 +1,49 @@
+{
+  "name": "Draco II",
+  "colorchoice": "lime",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 238.174,
+    "ra_err": { "upper": 0.005, "lower": 0.005 },
+    "dec": 64.579,
+    "dec_err": { "upper": 0.006, "lower": 0.006 },
+    "position_angle": 76,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 16.67,
+    "distance_modulus_err": { "upper": 0.05, "lower": 0.05 },
+    "dhelio": 21.5,
+    "dhelio_err": { "upper": 0.4, "lower": 0.4 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": false,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 17.4,
+    "rhalf_physical_err": { "upper": 3.8, "lower": 3.2 },
+    "ellipticity": 0.23,
+    "ellipticity_err": { "upper": 0.15, "lower": 0.15 },
+    "ahalf_angular_arcmin": 3.0,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": -0.8,
+    "Mv_err": { "upper": 0.4, "lower": 1.0 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 13.5,
+    "iso_feh": -2.2,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
