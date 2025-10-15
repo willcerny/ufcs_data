@@ -1,0 +1,49 @@
+{
+  "name": "Munoz 1",
+  "colorchoice": "mediumblue",
+  "photometry_source": "LSDR10",
+  "in_sample": true,
+  "last_reviewed": "2025-10-10",
+
+  "coordinates": {
+    "ra": 225.45,
+    "ra_err": { "upper": 0.004, "lower": 0.004 },
+    "dec": 66.969,
+    "dec_err": { "upper": 0.002, "lower": 0.002 },
+    "position_angle": 0,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 18.27,
+    "distance_modulus_err": { "upper": 0.3, "lower": 0.3 },
+    "dhelio": 45,
+    "dhelio_err": { "upper": 5, "lower": 5 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": false,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 7.1,
+    "rhalf_physical_err": { "upper": 2.1, "lower": 2.1 },
+    "ellipticity": 0.0,
+    "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
+    "ahalf_angular_arcmin": 0.49,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "Mv": -0.4,
+    "Mv_err": { "upper": 0.9, "lower": 0.9 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": 12.5,
+    "iso_feh": -1.5,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
