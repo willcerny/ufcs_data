@@ -37,7 +37,7 @@
   },
   "isoparams": {
     "iso_age": 10,
-    "iso_feh": -1.5,
+    "iso_feh": null,
     "bibcode": "2025arXiv251011684T",
     "iso_newlyderived" : false
   }
