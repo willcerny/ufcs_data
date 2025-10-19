@@ -1,0 +1,47 @@
+{
+  "name": "SMASH 1",
+  "in_sample": false,
+  "last_reviewed": "2025-10-19",
+
+  "coordinates": {
+    "ra": 317.2082083,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": -51.1635,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": null,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 18.8,
+    "distance_modulus_err": { "upper": 0.1, "lower": 0.1 },
+    "dhelio": 57,
+    "dhelio_err": { "upper": 0, "lower": 0 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": true,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 7.1,
+    "rhalf_physical_err": { "upper": 3.5, "lower": 2.4 },
+    "ellipticity": 0.62,
+    "ellipticity_err": { "upper": 0.32, "lower": 0.18 },
+    "ahalf_angular_arcmin": null,
+    "recompute_rhalf_physical": false,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "M_V": -1.0,
+    "M_V_err": { "upper": 0.9, "lower": 0.9 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": null,
+    "iso_feh": null,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
