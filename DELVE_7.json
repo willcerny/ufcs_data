@@ -31,8 +31,8 @@
     "bibcode": "2025arXiv251011684T"
   },
   "luminosity": {
-    "Mv": 1.2,
-    "Mv_err": {"lower": 2.1, "upper": 0.7},
+    "M_V": 1.2,
+    "M_V_err": {"lower": 2.1, "upper": 0.7},
     "bibcode": "2025arXiv251011684T"
   },
   "isoparams": {
