@@ -1,0 +1,47 @@
+{
+  "name": "Gaia 3",
+  "in_sample": false,
+  "last_reviewed": "2025-10-19",
+
+  "coordinates": {
+    "ra": 95.05864,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": -73.41445,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": null,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 18.4,
+    "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
+    "dhelio": 48.4,
+    "dhelio_err": { "upper": 4.84, "lower": 4.84 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": null,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 7.4,
+    "rhalf_physical_err": { "upper": 0.74, "lower": 0.74 },
+    "ellipticity": 0.0,
+    "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
+    "ahalf_angular_arcmin": null,
+    "recompute_rhalf_physical": false,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "M_V": -3.3,
+    "M_V_err": { "upper": 0.5, "lower": 0.5 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": null,
+    "iso_feh": null,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
