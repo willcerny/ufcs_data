@@ -1,0 +1,47 @@
+{
+  "name": "DES 4",
+  "in_sample": false,
+  "last_reviewed": "2025-10-19",
+
+  "coordinates": {
+    "ra": 82.09501,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": -61.72369,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": null,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 17.5,
+    "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
+    "dhelio": 31.3,
+    "dhelio_err": { "upper": 3.13, "lower": 3.13 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": null,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 7.6,
+    "rhalf_physical_err": { "upper": 0.76, "lower": 0.76 },
+    "ellipticity": 0.0,
+    "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
+    "ahalf_angular_arcmin": null,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "M_V": -1.1,
+    "M_V_err": { "upper": 0.5, "lower": 0.5 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": null,
+    "iso_feh": null,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
