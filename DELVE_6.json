@@ -1,7 +1,10 @@
 {
   "name": "DELVE 6",
+  "in_sample": true,
   "colorchoice": "slategray",
   "photometry_source": "LSDR10",
+  "last_reviewed": "2025-10-19",
+  
   "coordinates": {
     "ra": 33.07,
     "ra_err": {"lower": 0.004, "upper": 0.003},
