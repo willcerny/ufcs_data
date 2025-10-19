@@ -1,0 +1,47 @@
+{
+  "name": "HSC 1",
+  "in_sample": true,
+  "last_reviewed": "2025-10-19",
+
+  "coordinates": {
+    "ra": 334.309,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": 3.48,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": null,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": 18.3,
+    "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
+    "dhelio": 46,
+    "dhelio_err": { "upper": 4, "lower": 4 },
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": null,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": 4.4,
+    "rhalf_physical_err": { "upper": 1.5, "lower": 1.3 },
+    "ellipticity": 0.46,
+    "ellipticity_err": { "upper": 0.08, "lower": 0.1 },
+    "ahalf_angular_arcmin": 0.44,
+    "recompute_rhalf_physical": true,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "M_V": -0.2,
+    "M_V_err": { "upper": 0.59, "lower": 0.83 },
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": null,
+    "iso_feh": null,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
