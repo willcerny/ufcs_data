@@ -32,8 +32,8 @@
     "bibcode": "2023ApJ...953L..21C"
   },
   "luminosity": {
-    "Mv": -1.5,
-    "Mv_err": {"lower": 0.6, "upper": 0.4},
+    "M_V": -1.5,
+    "M_V_err": {"lower": 0.6, "upper": 0.4},
     "bibcode": "2023ApJ...953L..21C"
   },
   "isoparams": {
