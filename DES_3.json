@@ -24,7 +24,7 @@
 
   "size": {
     "rhalf_physical": 6.3,
-    "rhalf_physical_err": { "upper": 0.63, "lower": null },
+    "rhalf_physical_err": { "upper": 0.63, "lower": 0.63 },
     "ellipticity": 0.17,
     "ellipticity_err": { "upper": 0.13, "lower": 0.11 },
     "ahalf_angular_arcmin": null,
