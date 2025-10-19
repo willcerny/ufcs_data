@@ -1,9 +1,9 @@
 {
   "name": "Draco II",
+  "in_sample": true,
   "colorchoice": "lime",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-19",
 
   "coordinates": {
     "ra": 238.174,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": -0.8,
-    "Mv_err": { "upper": 0.4, "lower": 1.0 },
+    "M_V": -0.8,
+    "M_V_err": { "upper": 0.4, "lower": 1.0 },
     "bibcode": ""
   },
 
