@@ -7,7 +7,7 @@
     "distance_modulus": 18.1,
     "distance_modulus_err": {"lower": 0.3, "upper": 0.3},
     "dhelio": 42,
-    "dhelio_err": {"lower": -5, "upper": 6},
+    "dhelio_err": {"lower": 5, "upper": 6},
     "prefer_distance_modulus": true,
     "recompute_dhelio": false,
     "bibcode": "2025arXiv251011684T"
