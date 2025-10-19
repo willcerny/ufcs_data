@@ -3,6 +3,15 @@
   "in_sample" : false,
   "last_reviewed": "2025-10-18",
 
+  "coordinates": {
+    "ra": 304.107,
+    "ra_err": {"lower": 0.005, "upper": 0.004},
+    "dec": -50.33,
+    "dec_err": {"lower": 0.002, "upper": 0.002},
+    "position_angle": 101,
+    "bibcode": "2025arXiv251011684T"
+  },
+  
   "distance": {
     "distance_modulus": 18.1,
     "distance_modulus_err": {"lower": 0.3, "upper": 0.3},
