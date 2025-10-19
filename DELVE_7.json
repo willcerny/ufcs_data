@@ -1,0 +1,34 @@
+{
+  "name": "DELVE 7",
+  "in_sample" : False,
+
+  "distance": {
+    "distance_modulus": 18.1,
+    "distance_modulus_err": {"lower": 0.3, "upper": 0.3},
+    "dhelio": 42,
+    "dhelio_err": {"lower": -5, "upper": 6},
+    "prefer_distance_modulus": true,
+    "recompute_dhelio": false,
+    "bibcode": "2025arXiv251011684T"
+  },
+  "size": {
+    "rhalf_physical": 2,
+    "rhalf_physical_err": {"lower": 1, "upper": 4},
+    "ellipticity": 0.63,
+    "ellipticity_err": {"lower": 0.53, "upper": 0.17},
+    "ahalf_angular_arcmin": 0.32,
+    "recompute_rhalf_physical": false,
+    "bibcode": "2025arXiv251011684T"
+  },
+  "luminosity": {
+    "Mv": 1.2,
+    "Mv_err": {"lower": 2.1, "upper": 0.7},
+    "bibcode": "2025arXiv251011684T"
+  },
+  "isoparams": {
+    "iso_age": 10,
+    "iso_feh": -1.5,
+    "bibcode": "2025arXiv251011684T",
+    "iso_newlyderived" : false
+  }
+}
