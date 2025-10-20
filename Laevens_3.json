@@ -1,9 +1,9 @@
 {
   "name": "Laevens 3",
+  "in_sample": true,
   "colorchoice": "purple",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-20",
 
   "coordinates": {
     "ra": 316.7293802,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": -2.8,
-    "Mv_err": { "upper": 0.2, "lower": 0.3 },
+    "M_V": -2.8,
+    "M_V_err": { "upper": 0.2, "lower": 0.3 },
     "bibcode": ""
   },
 
