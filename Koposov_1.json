@@ -1,9 +1,9 @@
 {
   "name": "Koposov 1",
+  "in_sample": true,
   "colorchoice": "peru",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-20",
 
   "coordinates": {
     "ra": 179.827,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": -1.04,
-    "Mv_err": { "upper": 0.69, "lower": 0.69 },
+    "M_V": -1.04,
+    "M_V_err": { "upper": 0.69, "lower": 0.69 },
     "bibcode": ""
   },
 
