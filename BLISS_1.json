@@ -1,9 +1,9 @@
 {
   "name": "BLISS 1",
+  "in_sample": true,
   "colorchoice": "forestgreen",
   "photometry_source": "DELVE_DR2",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-20",
 
   "coordinates": {
     "ra": 177.51,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": 0.0,
-    "Mv_err": { "upper": 1.7, "lower": 0.7 },
+    "M_V": 0.0,
+    "M_V_err": { "upper": 1.7, "lower": 0.7 },
     "bibcode": ""
   },
 
