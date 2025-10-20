@@ -1,9 +1,9 @@
 {
   "name": "DELVE 1",
+  "in_sample": true,
   "colorchoice": "cornflowerblue",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-20",
 
   "coordinates": {
     "ra": 247.725,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": -0.2,
-    "Mv_err": { "upper": 0.8, "lower": 0.6 },
+    "M_V": -0.2,
+    "M_V_err": { "upper": 0.8, "lower": 0.6 },
     "bibcode": ""
   },
 
