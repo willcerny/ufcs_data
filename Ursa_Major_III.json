@@ -1,9 +1,9 @@
 {
   "name": "UMaIII/U1",
+  "in_sample": true,
   "colorchoice": "magenta",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-20",
 
   "coordinates": {
     "ra": 174.704,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": 2.2,
-    "Mv_err": { "upper": 0.4, "lower": 0.3 },
+    "M_V": 2.2,
+    "M_V_err": { "upper": 0.4, "lower": 0.3 },
     "bibcode": ""
   },
 
