@@ -25,12 +25,12 @@
   },
 
   "size": {
-    "rhalf_physical": 7.24,
-    "rhalf_physical_err": { "upper": 1.94, "lower": 1.29 },
+    "ahalf_physical": 7.24,
+    "ahalf_physical_err": { "upper": 1.94, "lower": 1.29 },
     "ellipticity": 0.0,
     "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
     "ahalf_angular_arcmin": 0.6,
-    "recompute_rhalf_physical": false,
+    "recompute_rhalf_physical": true,
     "bibcode": ""
   },
 
