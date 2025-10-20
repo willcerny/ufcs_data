@@ -1,9 +1,9 @@
 {
   "name": "Kim 3",
+  "in_sample": true,
   "colorchoice": "lightcoral",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-20",
 
   "coordinates": {
     "ra": 200.688,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": 0.7,
-    "Mv_err": { "upper": 0.3, "lower": 0.3 },
+    "M_V": 0.7,
+    "M_V_err": { "upper": 0.3, "lower": 0.3 },
     "bibcode": ""
   },
 
