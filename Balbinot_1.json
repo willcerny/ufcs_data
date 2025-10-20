@@ -1,9 +1,9 @@
 {
   "name": "Balbinot 1",
+  "in_sample": true,
   "colorchoice": "orange",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-19",
 
   "coordinates": {
     "ra": 332.6797917,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": -1.21,
-    "Mv_err": { "upper": 0.66, "lower": 0.66 },
+    "M_V": -1.21,
+    "M_V_err": { "upper": 0.66, "lower": 0.66 },
     "bibcode": ""
   },
 
