@@ -11,7 +11,7 @@
     "dec": 14.94,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
     "position_angle": 0,
-    "bibcode": ""
+    "bibcode": "2013ApJ...767..101B"
   },
 
   "distance": {
@@ -21,7 +21,7 @@
     "dhelio_err": { "upper": 1.6, "lower": 1.0 },
     "prefer_distance_modulus": false,
     "recompute_dhelio": false,
-    "bibcode": ""
+    "bibcode": "2013ApJ...767..101B"
   },
 
   "size": {
@@ -31,19 +31,19 @@
     "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
     "ahalf_angular_arcmin": 0.6,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2013ApJ...767..101B"
   },
 
   "luminosity": {
     "M_V": -1.21,
     "M_V_err": { "upper": 0.66, "lower": 0.66 },
-    "bibcode": ""
+    "bibcode": "2013ApJ...767..101B"
   },
 
   "isoparams": {
     "iso_age": 11.7,
     "iso_feh": -2.2,
-    "bibcode": "",
+    "bibcode": "2013ApJ...767..101B",
     "iso_newlyderived": false
   }
 }
