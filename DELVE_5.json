@@ -1,9 +1,9 @@
 {
   "name": "DELVE 5",
+  "in_sample": true,
   "colorchoice": "sienna",
   "photometry_source": "LSDR10",
-  "in_sample": true,
-  "last_reviewed": "2025-10-10",
+  "last_reviewed": "2025-10-20",
 
   "coordinates": {
     "ra": 222.104,
@@ -35,8 +35,8 @@
   },
 
   "luminosity": {
-    "Mv": 0.4,
-    "Mv_err": { "upper": 0.4, "lower": 0.9 },
+    "M_V": 0.4,
+    "M_V_err": { "upper": 0.4, "lower": 0.9 },
     "bibcode": ""
   },
 
