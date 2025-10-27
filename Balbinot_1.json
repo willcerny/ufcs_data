@@ -3,7 +3,7 @@
   "in_sample": true,
   "colorchoice": "orange",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-19",
+  "last_reviewed": "FC1: 2025-10-26",
 
   "coordinates": {
     "ra": 332.6797917,
@@ -15,10 +15,10 @@
   },
 
   "distance": {
-    "distance_modulus": 17.52,
-    "distance_modulus_err": { "upper": 0.07, "lower": 0.11 },
-    "dhelio": 31.6,
-    "dhelio_err": { "upper": 1.6, "lower": 1.0 },
+    "distance_modulus": 17.49,
+    "distance_modulus_err": { "upper": ,0.08, "lower": 0.1 },
+    "dhelio": 31.9,
+    "dhelio_err": { "upper": 1., "lower": 1.6 },
     "prefer_distance_modulus": false,
     "recompute_dhelio": false,
     "bibcode": "2013ApJ...767..101B"
@@ -29,8 +29,8 @@
     "ahalf_physical_err": { "upper": 1.94, "lower": 1.29 },
     "ellipticity": 0.0,
     "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
-    "ahalf_angular_arcmin": 0.6,
-    "recompute_rhalf_physical": true,
+    "ahalf_angular_arcmin": 0.78,
+    "recompute_rhalf_physical": false,
     "bibcode": "2013ApJ...767..101B"
   },
 
@@ -44,6 +44,6 @@
     "iso_age": 11.7,
     "iso_feh": -2.2,
     "bibcode": "2013ApJ...767..101B",
-    "iso_newlyderived": false
+    "iso_newlyderived": true
   }
 }
