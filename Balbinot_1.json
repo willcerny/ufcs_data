@@ -30,7 +30,7 @@
     "ellipticity": 0.0,
     "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
     "ahalf_angular_arcmin": 0.78,
-    "recompute_rhalf_physical": false,
+    "recompute_rhalf_physical": true,
     "bibcode": "2013ApJ...767..101B"
   },
 
