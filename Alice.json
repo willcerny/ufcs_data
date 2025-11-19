@@ -1,0 +1,47 @@
+{
+  "name": "Alice",
+  "in_sample": false,
+  "last_reviewed": "2025-11-19",
+
+  "coordinates": {
+    "ra": 220.774,
+    "ra_err": { "upper": null, "lower": null },
+    "dec": -28.028,
+    "dec_err": { "upper": null, "lower": null },
+    "position_angle": null,
+    "bibcode": ""
+  },
+
+  "distance": {
+    "distance_modulus": null,
+    "distance_modulus_err": { "upper": null, "lower": null },
+    "dhelio": 74,
+    "dhelio_err": { "upper": 10, "lower": 10 },
+    "prefer_distance_modulus": false,
+    "recompute_dhelio": null,
+    "bibcode": ""
+  },
+
+  "size": {
+    "rhalf_physical": null,
+    "rhalf_physical_err": { "upper": null, "lower": null },
+    "ellipticity": null,
+    "ellipticity_err": { "upper": null, "lower": null },
+    "ahalf_angular_arcmin": 0.45,
+    "recompute_rhalf_physical": false,
+    "bibcode": ""
+  },
+
+  "luminosity": {
+    "M_V": null,
+    "M_V_err": { "upper": null, "lower":  null},
+    "bibcode": ""
+  },
+
+  "isoparams": {
+    "iso_age": null,
+    "iso_feh": null,
+    "bibcode": "",
+    "iso_newlyderived": false
+  }
+}
