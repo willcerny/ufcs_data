@@ -1,13 +1,13 @@
 {
   "name": "DES 3",
   "in_sample": false,
-  "last_reviewed": "2025-10-19",
+  "last_reviewed": "2025-11-19",
 
   "coordinates": {
     "ra": 99.999,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": 99.999,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "dec_err": { "upper": null, "lower": null },
     "position_angle": null,
     "bibcode": ""
   },
@@ -16,7 +16,7 @@
     "distance_modulus": 19.41,
     "distance_modulus_err": { "upper": 0.09, "lower": 0.15 },
     "dhelio": 76.2,
-    "dhelio_err": { "upper": 3.2, "lower": -5.3 },
+    "dhelio_err": { "upper": 3.2, "lower": 5.3 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": null,
     "bibcode": ""
