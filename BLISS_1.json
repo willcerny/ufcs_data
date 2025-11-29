@@ -3,7 +3,7 @@
   "in_sample": true,
   "colorchoice": "forestgreen",
   "photometry_source": "DELVE_DR2",
-  "last_reviewed": "2025-10-20",
+  "last_reviewed": "2025-11-29",
 
   "coordinates": {
     "ra": 177.51,
@@ -27,8 +27,8 @@
   "size": {
     "rhalf_physical": 5.4,
     "rhalf_physical_err": { "upper": 1.5, "lower": 1.1 },
-    "ellipticity": 0.06,
-    "ellipticity_err": { "upper": 0.1, "lower": 0.1 },
+    "ellipticity": 0.0,
+    "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
     "ahalf_angular_arcmin": 0.6,
     "recompute_rhalf_physical": false,
     "bibcode": ""
