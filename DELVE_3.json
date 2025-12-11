@@ -11,7 +11,7 @@
     "dec": -60.784,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
     "position_angle": 14,
-    "bibcode": "2018MNRAS.478.2006L"
+    "bibcode": "2023ApJ...953....1C"
   },
 
   "distance": {
@@ -21,7 +21,7 @@
     "dhelio_err": { "upper": 2, "lower": 6 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": false,
-    "bibcode": "2018MNRAS.478.2006L"
+    "bibcode": "2023ApJ...953....1C"
   },
 
   "size": {
@@ -31,7 +31,7 @@
     "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
     "ahalf_angular_arcmin": 0.4,
     "recompute_rhalf_physical": false,
-    "bibcode": "2018MNRAS.478.2006L"
+    "bibcode": "2023ApJ...953....1C"
   },
 
   "luminosity": {
@@ -43,7 +43,7 @@
   "isoparams": {
     "iso_age": 13.5,
     "iso_feh": -2.2,
-    "bibcode": "2018MNRAS.478.2006L",
+    "bibcode": "2023ApJ...953....1C",
     "iso_newlyderived": false
   }
 }
