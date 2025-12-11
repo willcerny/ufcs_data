@@ -9,7 +9,7 @@
     "dec": -64.8319,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
     "position_angle": null,
-    "bibcode": ""
+    "bibcode": "2016MNRAS.458..603L"
   },
 
   "distance": {
@@ -19,7 +19,7 @@
     "dhelio_err": { "upper": 4, "lower": 4 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": null,
-    "bibcode": ""
+    "bibcode": "2016MNRAS.458..603L"
   },
 
   "size": {
@@ -29,19 +29,19 @@
     "ellipticity_err": { "upper": 0.22, "lower": 0.22 },
     "ahalf_angular_arcmin": 0.24,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2016MNRAS.458..603L"
   },
 
   "luminosity": {
     "M_V": -2.21,
     "M_V_err": { "upper": 0.71, "lower": 0.48 },
-    "bibcode": ""
+    "bibcode": "2016MNRAS.458..603L"
   },
 
   "isoparams": {
     "iso_age": null,
     "iso_feh": null,
-    "bibcode": "",
+    "bibcode": "2016MNRAS.458..603L",
     "iso_newlyderived": false
   }
 }
