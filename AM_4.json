@@ -19,7 +19,7 @@
     "dhelio_err": { "upper": 4, "lower": 4 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": null,
-    "bibcode": ""
+    "bibcode": "2021MNRAS.505.5957B"
   },
 
   "size": {
@@ -33,9 +33,9 @@
   },
 
   "luminosity": {
-    "M_V": -0.2,
-    "M_V_err": { "upper": 0.59, "lower": 0.83 },
-    "bibcode": ""
+    "M_V": -1.66,
+    "M_V_err": { "upper": null, "lower": null },
+    "bibcode": "2013AJ....146..116H"
   },
 
   "isoparams": {
