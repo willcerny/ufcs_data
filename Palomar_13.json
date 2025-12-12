@@ -1,7 +1,7 @@
 {
   "name": "Palomar 13",
   "in_sample": false,
-  "last_reviewed": "2025-11-22",
+  "last_reviewed": "2025-12-12",
 
   "coordinates": {
     "ra": 334.309,
@@ -33,9 +33,9 @@
   },
 
   "luminosity": {
-    "M_V": -0.2,
-    "M_V_err": { "upper": 0.59, "lower": 0.83 },
-    "bibcode": ""
+    "M_V": -3.27,
+    "M_V_err": { "upper": null, "lower": null },
+    "bibcode": "2020PASA...37...46B"
   },
 
   "isoparams": {
