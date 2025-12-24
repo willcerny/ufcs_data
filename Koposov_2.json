@@ -15,7 +15,7 @@
   },
 
   "distance": {
-    "distance_modulus": 16.2,
+    "distance_modulus": 16.9,
     "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
     "dhelio": 24.0,
     "dhelio_err": { "upper": 0.6, "lower": 0.5 },
