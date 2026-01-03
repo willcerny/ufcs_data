@@ -1,9 +1,9 @@
 {
   "name": "Eridanus III",
   "in_sample": true,
-  "colorchoice": "palevioletred",
+  "colorchoice": "mediumorchid",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-20",
+  "last_reviewed": "2026-1-03",
 
   "coordinates": {
     "ra": 35.6952,
