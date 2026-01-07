@@ -6,7 +6,7 @@
   "last_reviewed": "2025-10-20",
 
   "coordinates": {
-    "ra": 174.704,
+    "ra": 174.7075,
     "ra_err": { "upper": 0.001, "lower": 0.001 },
     "dec": 31.0783,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
