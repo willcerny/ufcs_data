@@ -7,9 +7,9 @@
 
   "coordinates": {
     "ra": 174.7075,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": 31.0783,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "dec_err": { "upper": null, "lower": null },
     "position_angle": 169,
     "bibcode": ""
   },
