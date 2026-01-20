@@ -3,7 +3,8 @@
   "in_sample": true,
   "colorchoice": "goldenrod",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-20",
+  "specialmarker" : "square",
+  "last_reviewed": "2026-1-20",
 
   "coordinates": {
     "ra": 110.8378,
