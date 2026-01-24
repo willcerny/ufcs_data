@@ -3,7 +3,7 @@
   "in_sample": true,
   "colorchoice": "indigo",
   "photometry_source": "LSDR10",
-  "specialmarker" : "square"
+  "specialmarker" : "square",
   "last_reviewed": "2026-01-20",
 
   "coordinates": {
