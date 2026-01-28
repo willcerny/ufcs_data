@@ -1,7 +1,7 @@
 {
   "name": "Palomar 13",
   "in_sample": false,
-  "last_reviewed": "2025-12-12",
+  "last_reviewed": "2026-01-27",
 
   "coordinates": {
     "ra": 334.309,
@@ -23,13 +23,13 @@
   },
 
   "size": {
-    "rhalf_physical": 4.5,
-    "rhalf_physical_err": { "upper": 1.5, "lower": 1.3 },
-    "ellipticity": 0.46,
-    "ellipticity_err": { "upper": 0.08, "lower": 0.1 },
-    "ahalf_angular_arcmin": 0.44,
+    "rhalf_physical": 8.6,
+    "rhalf_physical_err": { "upper": 0.8, "lower": 0.8},
+    "ellipticity": 0.05,
+    "ellipticity_err": { "upper": 0.05, "lower": 0.5 },
+    "ahalf_angular_arcmin": 1.14,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "luminosity": {
