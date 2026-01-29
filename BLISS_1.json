@@ -20,7 +20,7 @@
     "dhelio": 23.7,
     "dhelio_err": { "upper": 1.9, "lower": 1.0 },
     "prefer_distance_modulus": true,
-    "recompute_dhelio": false,
+    "recompute_dhelio": true,
     "bibcode": "2019ApJ...875..154M"
   },
 
