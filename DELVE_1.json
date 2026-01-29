@@ -3,7 +3,7 @@
   "in_sample": true,
   "colorchoice": "cornflowerblue",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-20",
+  "last_reviewed": "2026-01-28",
 
   "coordinates": {
     "ra": 247.725,
@@ -11,7 +11,7 @@
     "dec": -0.972,
     "dec_err": { "upper": 0.003, "lower": 0.003 },
     "position_angle": 21,
-    "bibcode": ""
+    "bibcode": "2020ApJ...890..136M"
   },
 
   "distance": {
@@ -21,7 +21,7 @@
     "dhelio_err": { "upper": 2.0, "lower": 1.9 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
-    "bibcode": ""
+    "bibcode": "2024ApJ...976..256S"
   },
 
   "size": {
@@ -31,19 +31,19 @@
     "ellipticity_err": { "upper": 0.1, "lower": 0.2 },
     "ahalf_angular_arcmin": 1.1,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2020ApJ...890..136M"
   },
 
   "luminosity": {
     "M_V": -0.2,
     "M_V_err": { "upper": 0.8, "lower": 0.6 },
-    "bibcode": ""
+    "bibcode": "2020ApJ...890..136M"
   },
 
   "isoparams": {
     "iso_age": 12.5,
     "iso_feh": -2.2,
-    "bibcode": "",
+    "bibcode": "2024ApJ...976..256S",
     "iso_newlyderived": false
   }
 }
