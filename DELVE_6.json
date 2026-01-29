@@ -4,10 +4,10 @@
   "colorchoice": "slategray",
   "photometry_source": "LSDR10",
   "specialmarker": "square",
-  "last_reviewed": "2026-01-20",
+  "last_reviewed": "2026-01-28",
   
   "coordinates": {
-    "ra": 33.07,
+    "ra": 33.070,
     "ra_err": {"lower": 0.004, "upper": 0.003},
     "dec": -66.056,
     "dec_err": {"lower": 0.002, "upper": 0.002},
@@ -16,9 +16,9 @@
   },
   "distance": {
     "distance_modulus": 19.51,
-    "distance_modulus_err": {"lower": 0.11, "upper": 0.16},
-    "dhelio": 81.0,
-    "dhelio_err": {"lower": 4.5, "upper": 5.7},
+    "distance_modulus_err": {"lower": 0.16, "upper": 0.11},
+    "dhelio": 80,
+    "dhelio_err": {"lower": 5.7, "upper": 4.5},
     "prefer_distance_modulus": true,
     "recompute_dhelio": false,
     "bibcode": "2023ApJ...953L..21C"
