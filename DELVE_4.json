@@ -3,7 +3,7 @@
   "in_sample" : true,
   "colorchoice": "brown",
   "photometry_source": "LSDR10",
-  "last_reviewed" : "2025-10-20",
+  "last_reviewed" : "2025-01-28",
   
   "coordinates": {
     "ra": 230.775,
@@ -11,16 +11,16 @@
     "dec": 27.395,
     "dec_err": {"upper": 0.001, "lower": 0.001},
     "position_angle": 152,
-    "bibcode": ""
+    "bibcode": "2023ApJ...953....1C"
   },
   "distance": {
     "distance_modulus": 18.28,
     "distance_modulus_err": {"upper": 0.19, "lower": 0.19},
-    "dhelio": 45.2,
-    "dhelio_err": {"upper": 4.3, "lower": 3.7},
+    "dhelio": 45,
+    "dhelio_err": {"upper": 4, "lower": 4},
     "prefer_distance_modulus": true,
-    "recompute_dhelio": true,
-    "bibcode": ""
+    "recompute_dhelio": false,
+    "bibcode": "2023ApJ...953....1C"
   },
   "size": {
     "rhalf_physical": 5,
@@ -29,17 +29,17 @@
     "ellipticity_err": {"upper": 0.2, "lower": 0.2},
     "ahalf_angular_arcmin": 0.49,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2023ApJ...953....1C"
   },
   "luminosity": {
     "M_V": -0.2,
     "M_V_err": {"upper": 0.5, "lower": 0.8},
-    "bibcode": ""
+    "bibcode": "2023ApJ...953....1C"
   },
   "isoparams": {
     "iso_age": 13.5,
     "iso_feh": -1.9,
-    "bibcode": "",
+    "bibcode": "2023ApJ...953....1C",
     "iso_newlyderived" : false
   }
 }
