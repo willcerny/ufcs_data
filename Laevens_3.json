@@ -3,7 +3,7 @@
   "in_sample": true,
   "colorchoice": "purple",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-20",
+  "last_reviewed": "2026-01-31",
 
   "coordinates": {
     "ra": 316.7293802,
@@ -11,7 +11,7 @@
     "dec": 14.98439985,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
     "position_angle": 72,
-    "bibcode": ""
+    "bibcode": "2019MNRAS.490.1498L"
   },
 
   "distance": {
@@ -21,29 +21,29 @@
     "dhelio_err": { "upper": 1.2, "lower": 1.0 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": false,
-    "bibcode": ""
+    "bibcode": "2019MNRAS.490.1498L"
   },
 
   "size": {
-    "ahalf_physical": 10.6,
-    "ahalf_physical_err": { "upper": 1.0, "lower": 1.1 },
+    "ahalf_physical": 11.4,
+    "ahalf_physical_err": { "upper": 1.0, "lower": 1.0 },
     "ellipticity": 0.11,
     "ellipticity_err": { "upper": 0.09, "lower": 0.11 },
     "ahalf_angular_arcmin": 0.64,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2019MNRAS.490.1498L"
   },
 
   "luminosity": {
     "M_V": -2.8,
     "M_V_err": { "upper": 0.2, "lower": 0.3 },
-    "bibcode": ""
+    "bibcode": "2019MNRAS.490.1498L"
   },
 
   "isoparams": {
     "iso_age": 13,
-    "iso_feh": -2.2,
-    "bibcode": "",
+    "iso_feh": -1.8,
+    "bibcode": "2019MNRAS.490.1498L",
     "iso_newlyderived": false
   }
 }
