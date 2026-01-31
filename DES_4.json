@@ -1,25 +1,25 @@
 {
   "name": "DES 4",
   "in_sample": false,
-  "last_reviewed": "2025-10-19",
+  "last_reviewed": "2026-01-28",
 
   "coordinates": {
     "ra": 82.09501,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": -61.72369,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "dec_err": { "upper": null, "lower": null },
     "position_angle": null,
-    "bibcode": ""
+    "bibcode": "2019MNRAS.484.2181T"
   },
 
   "distance": {
     "distance_modulus": 17.5,
-    "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
-    "dhelio": 31.3,
-    "dhelio_err": { "upper": 3.13, "lower": 3.13 },
+    "distance_modulus_err": { "upper": null, "lower": null },
+    "dhelio": null,
+    "dhelio_err": { "upper": null, "lower": null },
     "prefer_distance_modulus": true,
-    "recompute_dhelio": null,
-    "bibcode": ""
+    "recompute_dhelio": true,
+    "bibcode": "2019MNRAS.484.2181T"
   },
 
   "size": {
@@ -28,14 +28,14 @@
     "ellipticity": 0.0,
     "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
     "ahalf_angular_arcmin": null,
-    "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "recompute_rhalf_physical": true,
+    "bibcode": "2019MNRAS.484.2181T"
   },
 
   "luminosity": {
     "M_V": -1.1,
-    "M_V_err": { "upper": 0.5, "lower": 0.5 },
-    "bibcode": ""
+    "M_V_err": { "upper": null, "lower": null},
+    "bibcode": "2019MNRAS.484.2181T"
   },
 
   "isoparams": {
