@@ -1,41 +1,41 @@
 {
   "name": "SMASH 1",
   "in_sample": false,
-  "last_reviewed": "2025-10-19",
+  "last_reviewed": "2026-01-31",
 
   "coordinates": {
     "ra": 317.2082083,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": -51.1635,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
-    "position_angle": null,
-    "bibcode": ""
+    "dec_err": { "upper": null, "lower": null },
+    "position_angle": -24,
+    "bibcode": "2016ApJ...830L..10M"
   },
 
   "distance": {
     "distance_modulus": 18.8,
-    "distance_modulus_err": { "upper": 0.1, "lower": 0.1 },
+    "distance_modulus_err": { "upper": null, "lower": null },
     "dhelio": 57,
-    "dhelio_err": { "upper": 0, "lower": 0 },
+    "dhelio_err": { "upper": null, "lower": null },
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
-    "bibcode": ""
+    "bibcode": "2016ApJ...830L..10M"
   },
 
   "size": {
     "rhalf_physical": 7.1,
     "rhalf_physical_err": { "upper": 3.5, "lower": 2.4 },
     "ellipticity": 0.62,
-    "ellipticity_err": { "upper": 0.32, "lower": 0.18 },
-    "ahalf_angular_arcmin": null,
+    "ellipticity_err": { "upper": 0.17, "lower": 0.21 },
+    "ahalf_angular_arcmin": 0.57,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2016ApJ...830L..10M"
   },
 
   "luminosity": {
     "M_V": -1.0,
     "M_V_err": { "upper": 0.9, "lower": 0.9 },
-    "bibcode": ""
+    "bibcode": "2016ApJ...830L..10M"
   },
 
   "isoparams": {
