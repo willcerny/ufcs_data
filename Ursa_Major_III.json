@@ -3,7 +3,7 @@
   "in_sample": true,
   "colorchoice": "magenta",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2026-01-13",
+  "last_reviewed": "2026-01-28",
 
   "coordinates": {
     "ra": 174.7075,
@@ -26,7 +26,7 @@
 
   "size": {
     "ahalf_physical": 3.0,
-    "ahalf_physical_err": { "upper": 1.0, "lower": 0.8 },
+    "ahalf_physical_err": { "upper": 1.0, "lower": 1 },
     "ellipticity": 0.5,
     "ellipticity_err": { "upper": 0.2, "lower": 0.3 },
     "ahalf_angular_arcmin": 0.9,
