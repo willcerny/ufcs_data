@@ -18,7 +18,7 @@
     "dhelio": null,
     "dhelio_err": { "upper": null, "lower": null },
     "prefer_distance_modulus": true,
-    "recompute_dhelio": null,
+    "recompute_dhelio": true,
     "bibcode": "2019MNRAS.484.2181T"
   },
 
