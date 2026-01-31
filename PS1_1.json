@@ -41,8 +41,8 @@
   },
 
   "isoparams": {
-    "iso_age": 7,
-    "iso_feh": -1,
+    "iso_age": 8,
+    "iso_feh": -1.2,
     "bibcode": "",
     "iso_newlyderived": false
   }
