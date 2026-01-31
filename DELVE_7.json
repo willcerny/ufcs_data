@@ -1,7 +1,7 @@
 {
   "name": "DELVE 7",
   "in_sample" : false,
-  "last_reviewed": "2025-10-18",
+  "last_reviewed": "2026-01-28",
 
   "coordinates": {
     "ra": 304.107,
@@ -36,7 +36,7 @@
     "bibcode": "2025arXiv251011684T"
   },
   "isoparams": {
-    "iso_age": 10,
+    "iso_age": null,10
     "iso_feh": null,
     "bibcode": "2025arXiv251011684T",
     "iso_newlyderived" : false
