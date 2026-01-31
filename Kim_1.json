@@ -3,15 +3,15 @@
   "in_sample": true,
   "colorchoice": "red",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-20",
+  "last_reviewed": "2026-01-31",
 
   "coordinates": {
     "ra": 332.9214,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": 7.0271,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "dec_err": { "upper": null, "lower": null },
     "position_angle": -59,
-    "bibcode": ""
+    "bibcode": "2015ApJ...799...73K"
   },
 
   "distance": {
@@ -20,30 +20,30 @@
     "dhelio": 19.8,
     "dhelio_err": { "upper": 0.9, "lower": 0.9 },
     "prefer_distance_modulus": true,
-    "recompute_dhelio": null,
-    "bibcode": ""
+    "recompute_dhelio": false,
+    "bibcode": "2015ApJ...799...73K"
   },
 
   "size": {
-    "ahalf_physical": 5.2,
-    "ahalf_physical_err": { "upper": 0.7, "lower": 0.6 },
+    "ahalf_physical": 6.9,
+    "ahalf_physical_err": { "upper": 0.6, "lower": 0.6 },
     "ellipticity": 0.42,
     "ellipticity_err": { "upper": 0.1, "lower": 0.1 },
     "ahalf_angular_arcmin": 0.49,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2015ApJ...799...73K"
   },
 
   "luminosity": {
     "M_V": 0.3,
     "M_V_err": { "upper": 0.5, "lower": 0.5 },
-    "bibcode": ""
+    "bibcode": "2015ApJ...799...73K"
   },
 
   "isoparams": {
     "iso_age": 13,
     "iso_feh": -2.2,
     "bibcode": "",
-    "iso_newlyderived": false
+    "iso_newlyderived": true
   }
 }
