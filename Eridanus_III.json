@@ -4,15 +4,15 @@
   "colorchoice": "indigo",
   "photometry_source": "LSDR10",
   "specialmarker" : "square",
-  "last_reviewed": "2026-01-20",
+  "last_reviewed": "2026-01-31",
 
   "coordinates": {
     "ra": 35.6952,
-    "ra_err": { "upper": 0.003, "lower": 0.003 },
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
     "dec": -52.2838,
-    "dec_err": { "upper": 0.003, "lower": 0.003 },
+    "dec_err": { "upper": 0.002, "lower": 0.002 },
     "position_angle": 109,
-    "bibcode": ""
+    "bibcode": "2018ApJ...852...68C"
   },
 
   "distance": {
@@ -22,23 +22,23 @@
     "dhelio_err": { "upper": 4, "lower": 4 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": false,
-    "bibcode": ""
+    "bibcode": "2018ApJ...852...68C"
   },
 
   "size": {
-    "ahalf_physical": 4.6,
-    "ahalf_physical_err": { "upper": 0.8, "lower": 0.6 },
-    "ellipticity": 0.41,
-    "ellipticity_err": { "upper": 0.03, "lower": 0.06 },
-    "ahalf_angular_arcmin": 0.245,
+    "ahalf_physical": 8.6,
+    "ahalf_physical_err": { "upper": 0.9, "lower": 0.8 },
+    "ellipticity": 0.44,
+    "ellipticity_err": { "upper": 0.02, "lower": 0.03 },
+    "ahalf_angular_arcmin": 0.315,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2018ApJ...852...68C"
   },
 
   "luminosity": {
-    "M_V": -1.42,
+    "M_V": -2.1,
     "M_V_err": { "upper": 0.5, "lower": 0.5 },
-    "bibcode": ""
+    "bibcode": "2018ApJ...852...68C"
   },
 
   "isoparams": {
