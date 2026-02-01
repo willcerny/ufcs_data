@@ -4,25 +4,25 @@
   "colorchoice": "goldenrod",
   "photometry_source": "LSDR10",
   "specialmarker" : "square",
-  "last_reviewed": "2026-1-20",
+  "last_reviewed": "2026-1-31",
 
   "coordinates": {
     "ra": 110.8378,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": -64.8319,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
-    "position_angle": 0,
-    "bibcode": ""
+    "dec_err": { "upper": null, "lower": null },
+    "position_angle": null,
+    "bibcode": "2022ApJ...929L..21G"
   },
 
   "distance": {
     "distance_modulus": 18.72,
     "distance_modulus_err": { "upper": 0.15, "lower": 0.17 },
-    "dhelio": 55.1,
-    "dhelio_err": { "upper": 4.0, "lower": 3.9 },
+    "dhelio": null,
+    "dhelio_err": { "upper": null, "lower": null },
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
-    "bibcode": ""
+    "bibcode": "2022ApJ...929L..21G"
   },
 
   "size": {
@@ -32,19 +32,19 @@
     "ellipticity_err": { "upper": 0.0, "lower": 0.0 },
     "ahalf_angular_arcmin": 0.215,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2022ApJ...929L..21G"
   },
 
   "luminosity": {
     "M_V": -0.47,
     "M_V_err": { "upper": 0.57, "lower": 0.57 },
-    "bibcode": ""
+    "bibcode": "2022ApJ...929L..21G"
   },
 
   "isoparams": {
     "iso_age": 11.7,
     "iso_feh": -2.2,
     "bibcode": "",
-    "iso_newlyderived": false
+    "iso_newlyderived": true
   }
 }
