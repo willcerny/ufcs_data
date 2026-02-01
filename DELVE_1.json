@@ -25,7 +25,7 @@
   },
 
   "size": {
-    "rhalf_physical": 5.4,
+    "rhalf_physical": 6.2,
     "rhalf_physical_err": { "upper": 1.5, "lower": 1.1 },
     "ellipticity": 0.2,
     "ellipticity_err": { "upper": 0.1, "lower": 0.2 },
