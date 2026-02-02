@@ -15,11 +15,11 @@
   "distance": {
     "distance_modulus": 16.93,
     "distance_modulus_err": { "upper": 0.1, "lower": 0.1 },
-    "dhelio": 24.3,
-    "dhelio_err": { "upper": 1.2, "lower": 1.1 },
+    "dhelio": 23.5,
+    "dhelio_err": { "upper": 0.4, "lower": 0.4 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": false,
-    "bibcode": "2002ApJ...574..783C"
+    "bibcode": "2021MNRAS.505.5957B"
   },
 
   "size": {
