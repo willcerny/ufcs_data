@@ -1,15 +1,15 @@
 {
   "name": "Kim 2",
   "in_sample": false,
-  "last_reviewed": "2025-10-19",
+  "last_reviewed": "2026-02-01",
 
   "coordinates": {
     "ra": 317.2082083,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": -51.1635,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
-    "position_angle": null,
-    "bibcode": ""
+    "dec_err": { "upper": null, "lower": null },
+    "position_angle": 35,
+    "bibcode": "2015ApJ...803...63K"
   },
 
   "distance": {
@@ -18,8 +18,8 @@
     "dhelio": 104.7,
     "dhelio_err": { "upper": 4.1, "lower": 4.1 },
     "prefer_distance_modulus": true,
-    "recompute_dhelio": null,
-    "bibcode": ""
+    "recompute_dhelio": false,
+    "bibcode": "2015ApJ...803...63K"
   },
 
   "size": {
@@ -29,19 +29,19 @@
     "ellipticity_err": { "upper": 0.1, "lower": 0.1 },
     "ahalf_angular_arcmin": null,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2015ApJ...803...63K"
   },
 
   "luminosity": {
     "M_V": -1.5,
     "M_V_err": { "upper": 0.5, "lower": 0.5 },
-    "bibcode": ""
+    "bibcode": "2015ApJ...803...63K"
   },
 
   "isoparams": {
     "iso_age": null,
     "iso_feh": null,
-    "bibcode": "",
+    "bibcode": "2015ApJ...803...63K",
     "iso_newlyderived": false
   }
 }
