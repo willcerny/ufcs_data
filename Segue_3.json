@@ -3,7 +3,7 @@
   "in_sample": true,
   "colorchoice": "cyan",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-20",
+  "last_reviewed": "2026-02-01",
 
   "coordinates": {
     "ra": 320.3795,
@@ -17,11 +17,11 @@
   "distance": {
     "distance_modulus": 17.35,
     "distance_modulus_err": { "upper": 0.08, "lower": 0.08 },
-    "dhelio": 29.5,
-    "dhelio_err": { "upper": 1.1, "lower": 1.1 },
+    "dhelio": null,
+    "dhelio_err": { "upper": null, "lower": null },
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
-    "bibcode": ""
+    "bibcode": "2017AJ....154...57H"
   },
 
   "size": {
@@ -43,7 +43,7 @@
   "isoparams": {
     "iso_age": 2.6,
     "iso_feh": -0.55,
-    "bibcode": "",
+    "bibcode": "2017AJ....154...57H",
     "iso_newlyderived": false
   }
 }
