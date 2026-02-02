@@ -17,7 +17,7 @@
     "distance_modulus_err": { "upper": 0.04, "lower": 0.04 },
     "dhelio": 23.5,
     "dhelio_err": { "upper": 0.4, "lower": 0.4 },
-    "prefer_distance_modulus": true,
+    "prefer_distance_modulus": false,
     "recompute_dhelio": false,
     "bibcode": "2021MNRAS.505.5957B"
   },
