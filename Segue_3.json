@@ -7,11 +7,11 @@
 
   "coordinates": {
     "ra": 320.3795,
-    "ra_err": { "upper": 0.003, "lower": 0.003 },
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
     "dec": 19.1178,
-    "dec_err": { "upper": 0.003, "lower": 0.003 },
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
     "position_angle": 51,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "distance": {
@@ -25,13 +25,13 @@
   },
 
   "size": {
-    "ahalf_physical": 3.3,
+    "ahalf_physical": 3.8,
     "ahalf_physical_err": { "upper": 0.6, "lower": 0.6 },
     "ellipticity": 0.23,
     "ellipticity_err": { "upper": 0.11, "lower": 0.11 },
     "ahalf_angular_arcmin": 0.49,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "luminosity": {
