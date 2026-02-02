@@ -9,7 +9,7 @@
     "dec": -28.028,
     "dec_err": { "upper": null, "lower": null },
     "position_angle": null,
-    "bibcode": ""
+    "bibcode": "2025Ap.....68..327P"
   },
 
   "distance": {
@@ -18,30 +18,30 @@
     "dhelio": 74,
     "dhelio_err": { "upper": 10, "lower": 10 },
     "prefer_distance_modulus": false,
-    "recompute_dhelio": null,
-    "bibcode": ""
+    "recompute_dhelio": false,
+    "bibcode": "2025Ap.....68..327P"
   },
 
   "size": {
-    "rhalf_physical": null,
+    "rhalf_physical": 9.8,
     "rhalf_physical_err": { "upper": null, "lower": null },
     "ellipticity": null,
     "ellipticity_err": { "upper": null, "lower": null },
     "ahalf_angular_arcmin": 0.45,
     "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "bibcode": "2025Ap.....68..327P"
   },
 
   "luminosity": {
     "M_V": null,
     "M_V_err": { "upper": null, "lower":  null},
-    "bibcode": ""
+    "bibcode": "2025Ap.....68..327P"
   },
 
   "isoparams": {
     "iso_age": null,
     "iso_feh": null,
-    "bibcode": "",
+    "bibcode": "2025Ap.....68..327P",
     "iso_newlyderived": false
   }
 }
