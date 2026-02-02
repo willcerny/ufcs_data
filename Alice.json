@@ -28,7 +28,7 @@
     "ellipticity": null,
     "ellipticity_err": { "upper": null, "lower": null },
     "ahalf_angular_arcmin": 0.45,
-    "recompute_rhalf_physical": false,
+    "recompute_rhalf_physical": true,
     "bibcode": "2025Ap.....68..327P"
   },
 
