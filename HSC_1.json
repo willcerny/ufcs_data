@@ -1,15 +1,15 @@
 {
   "name": "HSC 1",
   "in_sample": false,
-  "last_reviewed": "2025-10-19",
+  "last_reviewed": "2026-02-01",
 
   "coordinates": {
     "ra": 334.309,
-    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "ra_err": { "upper": null, "lower": null },
     "dec": 3.48,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
-    "position_angle": null,
-    "bibcode": ""
+    "dec_err": { "upper":null, "lower": null },
+    "position_angle": -12,
+    "bibcode": "2019PASJ...71...94H"
   },
 
   "distance": {
@@ -18,30 +18,30 @@
     "dhelio": 46,
     "dhelio_err": { "upper": 4, "lower": 4 },
     "prefer_distance_modulus": true,
-    "recompute_dhelio": null,
-    "bibcode": ""
+    "recompute_dhelio": false,
+    "bibcode": "2019PASJ...71...94H"
   },
 
   "size": {
-    "rhalf_physical": 4.4,
-    "rhalf_physical_err": { "upper": 1.5, "lower": 1.3 },
+    "ahalf_physical": 5.9,
+    "ahalf_physical_err": { "upper": 1.5, "lower": 1.3 },
     "ellipticity": 0.46,
     "ellipticity_err": { "upper": 0.08, "lower": 0.1 },
     "ahalf_angular_arcmin": 0.44,
-    "recompute_rhalf_physical": false,
-    "bibcode": ""
+    "recompute_rhalf_physical": true,
+    "bibcode": "2019PASJ...71...94H"
   },
 
   "luminosity": {
     "M_V": -0.2,
     "M_V_err": { "upper": 0.59, "lower": 0.83 },
-    "bibcode": ""
+    "bibcode": "2019PASJ...71...94H"
   },
 
   "isoparams": {
     "iso_age": null,
     "iso_feh": null,
-    "bibcode": "",
+    "bibcode": "2019PASJ...71...94H",
     "iso_newlyderived": false
   }
 }
