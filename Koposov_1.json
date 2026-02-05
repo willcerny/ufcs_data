@@ -16,12 +16,12 @@
 
   "distance": {
     "distance_modulus": 17.8,
-    "distance_modulus_err": { "upper": 0.1, "lower": 0.1 },
-    "dhelio": 36.3,
-    "dhelio_err": { "upper": 1.7, "lower": 1.6 },
+    "distance_modulus_err": { "upper": null, "lower": null },
+    "dhelio": null,
+    "dhelio_err": { "upper": null, "lower": null },
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
-    "bibcode": "2018ApJ...860...66M"
+    "bibcode": "2014AJ....148...19P"
   },
 
   "size": {
@@ -43,7 +43,7 @@
   "isoparams": {
     "iso_age": 7.0,
     "iso_feh": -0.6,
-    "bibcode": "",
+    "bibcode": "2014AJ....148...19P",
     "iso_newlyderived": false
   }
 }
