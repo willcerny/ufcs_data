@@ -1,15 +1,15 @@
 {
   "name": "AM 4",
   "in_sample": false,
-  "last_reviewed": "2025-12-12",
+  "last_reviewed": "2026-02-05",
 
   "coordinates": {
-    "ra": 334.309,
+    "ra": 209.0883,
     "ra_err": { "upper": 0.001, "lower": 0.001 },
-    "dec": 3.48,
+    "dec": -27.1635,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
-    "position_angle": null,
-    "bibcode": ""
+    "position_angle": 32,
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "distance": {
@@ -26,7 +26,7 @@
     "ahalf_physical": 6.6,
     "ahalf_physical_err": { "upper": 1.4, "lower": 1.4 },
     "ellipticity": 0.08,
-    "ellipticity_err": { "upper": 0.15, "lower": 0.15 },
+    "ellipticity_err": { "upper": 0.16, "lower": 0.16 },
     "ahalf_angular_arcmin": 0.68,
     "recompute_rhalf_physical": true,
     "bibcode": "2018ApJ...860...66M"
