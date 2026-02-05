@@ -1,14 +1,14 @@
 {
   "name": "Palomar 13",
   "in_sample": false,
-  "last_reviewed": "2026-02-01",
+  "last_reviewed": "2026-02-05",
 
   "coordinates": {
     "ra": 346.6858,
     "ra_err": { "upper": 0.001, "lower": 0.001 },
     "dec": 12.7712,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
-    "position_angle": null,
+    "position_angle": 11,
     "bibcode": "2018ApJ...860...66M"
   },
 
