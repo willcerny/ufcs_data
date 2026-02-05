@@ -3,15 +3,15 @@
   "in_sample": true,
   "colorchoice": "peru",
   "photometry_source": "LSDR10",
-  "last_reviewed": "2025-10-20",
+  "last_reviewed": "2026-02-05",
 
   "coordinates": {
-    "ra": 179.827,
+    "ra":  179.8253,
     "ra_err": { "upper": 0.001, "lower": 0.001 },
-    "dec": 12.26,
-    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": 12.2615,
+    "dec_err": { "upper": 0.003, "lower": 0.003 },
     "position_angle": 7,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "distance": {
@@ -21,23 +21,23 @@
     "dhelio_err": { "upper": 1.7, "lower": 1.6 },
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "size": {
-    "ahalf_physical": 6.2,
-    "ahalf_physical_err": { "upper": 2.1, "lower": 2.0 },
+    "ahalf_physical": 8.7,
+    "ahalf_physical_err": { "upper": 2.5, "lower": 2.5 },
     "ellipticity": 0.45,
     "ellipticity_err": { "upper": 0.15, "lower": 0.15 },
     "ahalf_angular_arcmin": 0.62,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "luminosity": {
     "M_V": -1.04,
     "M_V_err": { "upper": 0.69, "lower": 0.69 },
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "isoparams": {
