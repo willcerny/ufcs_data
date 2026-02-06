@@ -7,11 +7,11 @@
 
   "coordinates": {
     "ra": 119.5715,
-    "ra_err": { "upper": 0.002, "lower": 0.002 },
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
     "dec": 26.2574,
-    "dec_err": { "upper": 0.001527777778, "lower": 0.001527777778 },
+    "dec_err": { "upper": 0.002, "lower": 0.002 },
     "position_angle": -35,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "distance": {
@@ -31,19 +31,19 @@
     "ellipticity_err": { "upper": 0.14, "lower": 0.14 },
     "ahalf_angular_arcmin": 0.44,
     "recompute_rhalf_physical": true,
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "luminosity": {
     "M_V": -0.92,
     "M_V_err": { "upper": 0.81, "lower": 0.81 },
-    "bibcode": ""
+    "bibcode": "2018ApJ...860...66M"
   },
 
   "isoparams": {
     "iso_age": 13.5,
     "iso_feh": -2.2,
     "bibcode": "",
-    "iso_newlyderived": false
+    "iso_newlyderived": true
   }
 }
