@@ -10,26 +10,26 @@
     "ra_err": { "upper": 0.002, "lower": 0.002 },
     "dec": 26.2574,
     "dec_err": { "upper": 0.001527777778, "lower": 0.001527777778 },
-    "position_angle": 72,
+    "position_angle": -35,
     "bibcode": ""
   },
 
   "distance": {
     "distance_modulus": 16.9,
     "distance_modulus_err": { "upper": 0.2, "lower": 0.2 },
-    "dhelio": 24.0,
-    "dhelio_err": { "upper": 0.6, "lower": 0.5 },
+    "dhelio": null,
+    "dhelio_err": { "upper": null, "lower": null },
     "prefer_distance_modulus": true,
     "recompute_dhelio": true,
     "bibcode": ""
   },
 
   "size": {
-    "ahalf_physical": 6.3,
-    "ahalf_physical_err": { "upper": 2.1, "lower": 2.0 },
-    "ellipticity": 0.45,
-    "ellipticity_err": { "upper": 0.15, "lower": 0.15 },
-    "ahalf_angular_arcmin": 0.62,
+    "ahalf_physical": 4.4,
+    "ahalf_physical_err": { "upper": 0.4, "lower": 0.4 },
+    "ellipticity": 0.43,
+    "ellipticity_err": { "upper": 0.14, "lower": 0.14 },
+    "ahalf_angular_arcmin": 0.44,
     "recompute_rhalf_physical": true,
     "bibcode": ""
   },
