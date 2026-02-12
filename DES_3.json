@@ -4,9 +4,9 @@
   "last_reviewed": "2026-02-12",
 
   "coordinates": {
-    "ra": 99.999,
-    "ra_err": { "upper": null, "lower": null },
-    "dec": 99.999,
+    "ra": 325.0552 ,
+    "ra_err": { "upper": 0.001, "lower": 0.001 },
+    "dec": -52.5418,
     "dec_err": { "upper": 0.001, "lower": 0.001 },
     "position_angle": -11.6,
     "bibcode": "2018MNRAS.478.2006L"
@@ -24,7 +24,7 @@
 
   "size": {
     "ahalf_physical": 6.65,
-    "ahalf_physical_err": { "upper": 1.13, "lower": -0.95 },
+    "ahalf_physical_err": { "upper": 1.13, "lower": 0.95 },
     "ellipticity": 0.18,
     "ellipticity_err": { "upper": 0.14, "lower": 0.12 },
     "ahalf_angular_arcmin": 0.3,
