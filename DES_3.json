@@ -1,46 +1,46 @@
 {
   "name": "DES 3",
   "in_sample": false,
-  "last_reviewed": "2025-11-19",
+  "last_reviewed": "2026-02-12",
 
   "coordinates": {
     "ra": 99.999,
     "ra_err": { "upper": null, "lower": null },
     "dec": 99.999,
-    "dec_err": { "upper": null, "lower": null },
-    "position_angle": null,
+    "dec_err": { "upper": 0.001, "lower": 0.001 },
+    "position_angle": -11.6,
     "bibcode": "2018MNRAS.478.2006L"
   },
 
   "distance": {
     "distance_modulus": 19.41,
-    "distance_modulus_err": { "upper": 0.09, "lower": 0.15 },
+    "distance_modulus_err": { "upper": 0.08, "lower": 0.11 },
     "dhelio": 76.2,
-    "dhelio_err": { "upper": 3.2, "lower": 5.3 },
+    "dhelio_err": { "upper": 2.8, "lower": 3.9 },
     "prefer_distance_modulus": true,
-    "recompute_dhelio": null,
+    "recompute_dhelio": true,
     "bibcode": "2018MNRAS.478.2006L"
   },
 
   "size": {
-    "rhalf_physical": 6.3,
-    "rhalf_physical_err": { "upper": 0.63, "lower": 0.63 },
-    "ellipticity": 0.17,
-    "ellipticity_err": { "upper": 0.13, "lower": 0.11 },
-    "ahalf_angular_arcmin": null,
-    "recompute_rhalf_physical": false,
+    "ahalf_physical": 6.65,
+    "ahalf_physical_err": { "upper": 1.13, "lower": -0.95 },
+    "ellipticity": 0.18,
+    "ellipticity_err": { "upper": 0.14, "lower": 0.12 },
+    "ahalf_angular_arcmin": 0.3,
+    "recompute_rhalf_physical": true,
     "bibcode": "2018MNRAS.478.2006L"
   },
 
   "luminosity": {
-    "M_V": -2.0,
-    "M_V_err": { "upper": 0.4, "lower": 0.3 },
+    "M_V": -1.6,
+    "M_V_err": { "upper": 0.5, "lower": 0.3 },
     "bibcode": "2018MNRAS.478.2006L"
   },
 
   "isoparams": {
-    "iso_age": null,
-    "iso_feh": null,
+    "iso_age": 9.8,
+    "iso_feh": -1.84,
     "bibcode": "2018MNRAS.478.2006L",
     "iso_newlyderived": false
   }
