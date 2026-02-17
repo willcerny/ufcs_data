@@ -4,9 +4,9 @@
   "last_reviewed": "2026-01-31",
 
   "coordinates": {
-    "ra": 317.2082083,
+    "ra": 95.2496,
     "ra_err": { "upper": null, "lower": null },
-    "dec": -51.1635,
+    "dec":  -80.3958,
     "dec_err": { "upper": null, "lower": null },
     "position_angle": -24,
     "bibcode": "2016ApJ...830L..10M"
